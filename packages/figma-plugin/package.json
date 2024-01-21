@@ -4,7 +4,7 @@
   "main": "dist/figma.js",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.5.0",
+    "axios": "^1.6.0",
     "rimraf": "^5.0.1",
     "unist-util-visit": "^5.0.0"
   },
